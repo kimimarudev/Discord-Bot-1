@@ -1,9 +1,9 @@
 const config = {
 	ownerID: ['YourAccountID'],
-	token: 'YourBotToken',
-	botClient: 'YourBotClientSecret',
+	token: 'ODU1NTg5NzgzNTA1MzM4Mzg5.YM0sFA.yL8qDBbGj7L_B6ZGk5to7XyyqMQ',
+	botClient: '341270490809237505',
 	// replace BOTID with the bot's ID
-	inviteLink: 'https://discord.com/api/oauth2/authorize?client_id=BOTID&permissions=485846102&scope=bot',
+	inviteLink: 'https://discord.com/api/oauth2/authorize?client_id=855589783505338389&permissions=0&scope=bot',
 	// For looking up Twitch, Fortnite, Steam accounts
 	api_keys: {
 		// https://dev.twitch.tv/console/apps
